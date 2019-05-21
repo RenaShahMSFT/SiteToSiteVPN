@@ -22,7 +22,7 @@
 
 * Description table of each parameter with example values
 * Template Buttons
-### Step 2 – Configure Onprem network appliance that performs the IKEV2 (This is top be done by IT Admin/Network Admin)
+### Step 2 – Configure Onprem network appliance that performs the IKEV2 (This step can be done by IT Admin/Network Admin)
 ### Step 3 – Mount to test that connection works
 ### Step 4 – Persistent mount for reboots
 ### Conclusion

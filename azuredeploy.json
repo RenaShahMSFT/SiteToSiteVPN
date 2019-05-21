@@ -46,19 +46,6 @@
         "description": "CIDR block representing the address space of the Azure VNet"
       }
     },
-    "subnetName": {
-      "type": "string",
-      "defaultValue": "Subnet1",
-      "metadata": {
-        "description": "Arbitrary name for the Azure Subnet"
-      }
-    },
-    "subnetPrefix": {
-      "type": "string",
-      "metadata": {
-        "description": "CIDR block for VM subnet, subset of azureVNetAddressPrefix address space"
-      }
-    },
     "gatewaySubnetPrefix": {
       "type": "string",
       "defaultValue": "10.3.200.0/29",
@@ -154,12 +141,6 @@
           ]
         },
         "subnets": [
-          {
-            "name": "[parameters('subnetName')]",
-            "properties": {
-              "addressPrefix": "[parameters('subnetPrefix')]"
-            }
-          },
           {
             "name": "GatewaySubnet",
             "properties": {
