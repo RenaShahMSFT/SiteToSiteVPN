@@ -7,7 +7,9 @@
 ## Prerequisites 
 * You already have a storage account
 * List of compatible devices – Link to list of compatible devices
+    https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices
 * List of subnets- what DC are you planning to connect to – Link to the mapping
+    https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653
 * Have access to the network appliance  that is intended to route to Azure
 * Have atleast 1 client machine that is connected to the network appliance
 ## Steps
