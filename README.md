@@ -6,7 +6,7 @@
 ![VPN topology](./images/site2sitetopology.png)
 ![VPN topology](./images/site2siteTemplate.png)
 
-Note:We need Instructions for enabling Service Endpoint
+Note:We need Instructions for enabling Service Endpoint, or see if we can add it to the template.
 
 ## Prerequisites 
 * You already have a storage account
