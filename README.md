@@ -30,6 +30,7 @@ Last step - Enable Service Endpoint
 * Description table of each parameter with example values
 * Template Buttons
 ### Step 2 – Configure Onprem network appliance that performs the IKEV2 (This step can be done by IT Admin/Network Admin)
+![VPN topology](./images/installRRAS.png)
 ### Step 3 – Mount to test that connection works
 ### Step 4 – Persistent mount for reboots
 ### Conclusion
