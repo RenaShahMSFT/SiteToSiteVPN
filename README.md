@@ -4,7 +4,6 @@
 ## Topology Diagram – with a Visio diagram
 ### Topology description
 ![VPN topology](./images/site2sitetopology.png)
-(./images/site2sitetemplate.png)
 ## Prerequisites 
 * You already have a storage account
 * List of compatible devices – Link to list of compatible devices
