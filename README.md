@@ -6,7 +6,8 @@
 ![VPN topology](./images/site2sitetopology.png)
 ![VPN topology](./images/site2siteTemplate.png)
 
-Note:We need Instructions for enabling Service Endpoint, or see if we can add it to the template.
+Last step - Enable Service Endpoint
+    https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=%2fazure%2fvirtual-network%2ftoc.json#grant-access-from-a-virtual-network
 
 ## Prerequisites 
 * You already have a storage account
