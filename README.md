@@ -5,6 +5,9 @@
 ### Topology description
 ![VPN topology](./images/site2sitetopology.png)
 ![VPN topology](./images/site2siteTemplate.png)
+
+Note:We need Instructions for enabling Service Endpoint
+
 ## Prerequisites 
 * You already have a storage account
 * List of compatible devices – Link to list of compatible devices
