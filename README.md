@@ -4,10 +4,6 @@
 ## Topology Diagram – with a Visio diagram
 ### Topology description
 ![VPN topology](./images/site2sitetopology.png)
-![VPN topology](./images/site2siteTemplate.png)
-
-Last step - Enable Service Endpoint
-    https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=%2fazure%2fvirtual-network%2ftoc.json#grant-access-from-a-virtual-network
 
 ## Prerequisites 
 * You already have a storage account
@@ -29,8 +25,14 @@ Last step - Enable Service Endpoint
 
 * Description table of each parameter with example values
 * Template Buttons
+![VPN topology](./images/site2siteTemplate.png)
+Last step - Enable Service Endpoint
+    https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=%2fazure%2fvirtual-network%2ftoc.json#grant-access-from-a-virtual-network
+
 ### Step 2 – Configure Onprem network appliance that performs the IKEV2 (This step can be done by IT Admin/Network Admin)
+In this example we will configure a RRAS Server, but please refer to compatible devices.
 ![VPN topology](./images/installRRAS.png)
+![VPN topology](./images/configureRRAS.png)
 ### Step 3 – Mount to test that connection works
 ### Step 4 – Persistent mount for reboots
 ### Conclusion
